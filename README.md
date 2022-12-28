@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @villebellez.
 - 👀 I’m interested in becoming a Software Developer.
 - 💻 I hold two associates degrees (Cybersecurity/Computer Forensics).
-- 🏫 I am currently pursuing my bachelors in Information Technology (Concentratrion: Software Development).
+- 🏫 I am currently pursuing my bachelors in Computer Science.
 - 🌱 In my free time I've been learning Kotlin/Android Studio, and dabbling with some web design.
 - 📖 I am still a beginner so pointers and suggestions are always appreciated!
 <!---
