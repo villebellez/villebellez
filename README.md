@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @villebellez.
 - 👀 I’m interested in becoming a Software Developer.
+- 💼 My long-term goal is to have a career in AppSec.
 - 💻 I hold two associates degrees (Cybersecurity/Computer Forensics).
 - 🏫 I am currently pursuing my bachelors in Computer Science.
 - 📖 I am still a beginner so pointers and suggestions are always appreciated!
